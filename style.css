@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: rgb(8, 23, 236);
+    font-family: "Open Sans Condesed", sans-serif;
+    font-weight: bold;
+    border-bottom-style: inset;
+}
+
+.tarefa-selecionada { 
+    color: red; 
+    font-style: italic; 
+}
+.tarefa-normal {
+     color: black; 
+    }
+
+body {
+    font-family: "Times New Roman";
+    background-color: #F2FFFC;
+}
+
+p {
+    color: rgb(8, 23, 236);
+    font-weight: bold;
+}
